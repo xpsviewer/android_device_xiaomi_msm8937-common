@@ -161,9 +161,9 @@ PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-service \
     android.hardware.renderscript@1.0-impl
 
-# Display calibration
+# LiveDisplay
 PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.xiaomi
+    vendor.lineage.livedisplay@2.0-service-sdm
 
 # Doze mode
 PRODUCT_PACKAGES += \
